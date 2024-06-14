@@ -1,2 +1,0 @@
-TEST3 IS CREATED FOR TRSTING AND CHECKING
-modified the test3.txts
